@@ -14,7 +14,6 @@ window.onload = function(){
         console.log('N= ', n);
         console.log('Voici la pyramide :');
 	var i;
-        var j;
         ligne = '';
 	for (i = 0; i < n; i++) {
 	  ligne = ligne + '#';
